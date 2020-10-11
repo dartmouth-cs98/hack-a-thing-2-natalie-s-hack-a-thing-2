@@ -8,3 +8,8 @@ What I learned: I learned a lot about the basic concepts of HTML, CSS, and JavaS
 
 What didn't work: The projects were fairly simple. CodeAcademy covers basic concepts in great detail and makes everything very easy to follow. They also guide you through the projects very well.
 
+<img width="944" alt="Cs 98 Demo 1" src="https://user-images.githubusercontent.com/63208333/95693253-01ca6f80-0bf1-11eb-9f70-f29d6c88ed18.png">
+
+<img width="944" alt="CS 98 Demo 2" src="https://user-images.githubusercontent.com/63208333/95693257-0727ba00-0bf1-11eb-9808-5f63d3e5d909.png">
+
+<img width="906" alt="Cs 98 Demo 3" src="https://user-images.githubusercontent.com/63208333/95693259-0abb4100-0bf1-11eb-902b-9c3a939cd3d4.png">
